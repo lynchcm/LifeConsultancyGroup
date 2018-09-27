@@ -1,1 +1,1 @@
-# LifeConsultancyGroup
+# LifeConsultingGroup
