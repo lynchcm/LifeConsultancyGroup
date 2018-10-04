@@ -52,10 +52,14 @@ h1 {
     font-family: 'Raleway', sans-serif;
     padding-bottom: 40px;
     letter-spacing: 6px;
-    font-size: 14px;
+    font-size: 10px;
     font-weight: 100;
     margin: 0;
-    padding: 0 50px 20px 50px;
+    padding: 0 10px 20px 10px;
+    
+    @media only screen and (min-width: $medium) {
+        font-size: 14px;
+    } 
 }
 
 #intro {
