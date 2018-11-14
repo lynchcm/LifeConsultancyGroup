@@ -275,4 +275,11 @@ a, a:hover {
     letter-spacing: 4px;
     font-weight: 100; }
 
+#made-by {
+  margin-top: 30px; }
+  #made-by p {
+    text-align: center; }
+    #made-by p a {
+      color: #BEA94B; }
+
 /*# sourceMappingURL=style.css.map */
